@@ -1,4 +1,8 @@
 int setCommit(string message){
 	this.message = message;
 }
+int setMessage(string message){
+	this.commit = message;
+}
+
 
